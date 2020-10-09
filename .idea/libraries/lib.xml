@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/junit-platform-engine-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/junit-platform-commons-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/opentest4j-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/javax.xml.bind-2.3.0.LIFERAY-PATCHED-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/junit-jupiter-engine-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/annotations-17.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/postgresql-42.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/junit-jupiter-api-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/junit-jupiter-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/junit-jupiter-params-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UAVs_Web_exploded/WEB-INF/lib/apiguardian-api-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
